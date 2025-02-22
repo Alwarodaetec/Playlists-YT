@@ -8,14 +8,14 @@ Este projeto é um script automatizado com Selenium para criar playlists no YouT
 - WebDriver Manager
 
 ## 🚀 **Como Executar o Projeto**
-1. Edite o arquivo `simplicacaoYT.py` e insira suas credenciais:
+1. Edite o arquivo `simplificacaoYT.py` e insira suas credenciais:
 ```python
 email = "seu-email@gmail.com"
 senha = "sua-senha"
 ```
 2. Execute o script:
 ```bash
-  python main.py
+  python simplificacaoYT.py
 ```
 
 ## 📑 **Funcionalidades**
