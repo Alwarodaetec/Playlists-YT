@@ -6,8 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Informações de login
-email = "pythonautomacaoctrlplay@gmail.com"
-senha = "ctrlplay"
+email = "SEU_EMAIL"
+senha = "SUA_SENHA"
 
 # Lista de matérias:
 materias = ["Matemática", "Física", "Química", "Biologia", "História", "Geografia"]
